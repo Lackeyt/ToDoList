@@ -1,4 +1,2 @@
-/ToDoList/bin
-/ToDoList/obj
-/ToDoList.Tests/bin
-/ToDoList.Tests/obj
+bin/
+obj/
